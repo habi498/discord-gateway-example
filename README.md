@@ -9,3 +9,5 @@ How to connect to discord gateway and receive messages in C++/C using Curl webso
 1. This example console.exe connects to discord-gateway ( You can see the bot-becoming online ) and listen to user messages. If somebody types something in a channel in which the bot belongs, it will respond by Hello, I recieved your message.
 
 I originally made for a plugin for game server, but since example in c++ to connect to discord gateway is rare online, decided to upload it.
+
+Reference: 1. https://discord.com/developers/docs/topics/gateway
